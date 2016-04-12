@@ -1,4 +1,4 @@
 # hello-world
 
-Here is teh readme file.
+Here is the readme file.
 I write about the change here.
