@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     w.show();
 
     //working comment in main
+    //second editing in main
 
     return a.exec();
 }
