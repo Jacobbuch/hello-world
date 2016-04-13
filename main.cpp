@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include <QApplication>
 
+
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
@@ -11,7 +12,6 @@ int main(int argc, char *argv[])
     
     //feature branch locally change comment in feature branch
 
-    //second editing in main
-
+   // new editing
     return a.exec();
 }
