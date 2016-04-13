@@ -8,6 +8,9 @@ int main(int argc, char *argv[])
     w.show();
 
     //working comment in main
+    
+    //feature branch locally change comment in feature branch
+
     //second editing in main
 
     return a.exec();
